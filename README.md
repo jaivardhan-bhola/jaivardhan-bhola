@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @jaivardhan-bhola
 - 👀 I’m interested in Graphic Deesigning and Python Development 
 - 🌱 I’m currently learning Data Science and Deep Learning 
-- 📫 How to reach me -jaivardhan.bhola@gmail.com
+- 📫 How to reach me - jaivardhan.bhola@gmail.com
