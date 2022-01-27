@@ -1,4 +1,4 @@
-<h1 align='center'> Hello Fellow < Developers/ >! I'm Jaivardhan Bhola<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1 align='center'> Hello World ! I'm Jaivardhan Bhola<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
 <p align="left"> <a href="https://twitter.com/bholajaivardhan" target="blank"><img src="https://img.shields.io/twitter/follow/bholajaivardhan?logo=twitter&style=for-the-badge" alt="bholajaivardhan" /></a> </p>
