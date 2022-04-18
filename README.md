@@ -2,9 +2,7 @@
 <p align='center'>
 
 <p align="left"> <a href="https://twitter.com/bholajaivardhan" target="blank"><img src="https://img.shields.io/twitter/follow/bholajaivardhan?logo=twitter&style=for-the-badge" alt="bholajaivardhan" /></a> </p>
-### Spotify Playing 🎧
 
-[<img src="https://spotify-readme-brown.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/31r2llf3nbejagocguypnqjouo5u)
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 - 🔭 I’m currently working on Python GUI applications
