@@ -43,7 +43,7 @@
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaivardhan-bhola&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="jaivardhan-bhola" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaivardhan-bhola&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D&include_all_commits=true" alt="jaivardhan-bhola" /></p>
 
 <h2>Trophies<img src ="https://raw.githubusercontent.com/jaivardhan-bhola/jaivardhan-bhola/main/trophies.gif" height = 50px width = 50px </h2>
 <br>
