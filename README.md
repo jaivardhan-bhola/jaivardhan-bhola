@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on Python GUI applications
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **Python front-end applications**
 
