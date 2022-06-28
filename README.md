@@ -41,4 +41,4 @@
 <br>
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-      src="https://github-profile-trophy.vercel.app/?username=jaivardhan-bhola&show_icons=true&theme=radical&hide_border=True" alt="jaivardhan-bhola" /></a> </p>
+      src="https://github-profile-trophy.vercel.app/?username=jaivardhan-bhola&show_icons=true&theme=tokyonight&hide_border=True" alt="jaivardhan-bhola" /></a> </p>
