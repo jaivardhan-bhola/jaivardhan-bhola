@@ -31,14 +31,10 @@
 
 <h2> GitHub Stats <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 24px height = 24px/> </h2>
 
-![jaivardhan-bhola's Stats](https://github-readme-stats.vercel.app/api?username=jaivardhan-bhola&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![jaivardhan-bhola's Stats](https://github-readme-stats.vercel.app/api?username=jaivardhan-bhola&theme=dark&show_icons=true&hide_border=true&count_private=true&icon_color=f28a00)
 
-![jaivardhan-bhola's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jaivardhan-bhola&theme=tokyonight&hide_border=true)
+![jaivardhan-bhola's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jaivardhan-bhola&theme=dark&hide_border=true)
 
-![jaivardhan-bhola's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaivardhan-bhola&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![jaivardhan-bhola's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaivardhan-bhola&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![jaivardhan-bhola's Activity Graph](https://activity-graph.herokuapp.com/graph?username=jaivardhan-bhola&hide_border=true&bg_color=151515&color=fff&line=f28a00&point=f28a00)]
 
-<h2>Trophies<img src ="https://raw.githubusercontent.com/jaivardhan-bhola/jaivardhan-bhola/main/trophies.gif" height = 50px width = 50px </h2>
-<br>
-  
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-      src="https://github-profile-trophy.vercel.app/?username=jaivardhan-bhola&show_icons=true&theme=tokyonight&hide_border=True" alt="jaivardhan-bhola" /></a> </p>
