@@ -1,3 +1,11 @@
+<p align = 'center'>
+<img src="https://user-images.githubusercontent.com/83286825/190104805-ef081365-7927-4361-ba40-c66ee6a7404a.png" />
+</p>
+<p align = 'center'>
+<a href ="https://spotify-recently-played-readme.vercel.app/api?user=31r2llf3nbejagocguypnqjouo5u" target="https://open.spotify.com/user/31r2llf3nbejagocguypnqjouo5u"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31r2llf3nbejagocguypnqjouo5u&unique=true&count=1&width=300" /></a>
+
+</p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 - 🔭 I’m currently working on **Desktop apps using Python**
 
