@@ -31,8 +31,9 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaivardhan-bhola&show_icons=true&locale=en&layout=compact&bg_color=141414&title_color=FF9B00&icon_color=FF9B00&text_color=FF9B00&hide_border=true" alt="jaivardhan-bhola" /></p>
 <p> <img src ="https://activity-graph.herokuapp.com/graph?username=jaivardhan-bhola&hide_border=true&bg_color=141414&color=FF9B00&line=FF9B00&point=FF9B00" /> </p>
-
-<h3 align="left">Support:</h3>
+<br>
+<br>
+<h2 align="left">Support</h2>
 <p><a href="https://www.buymeacoffee.com/aivardhan"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aivardhan" /></a></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jaivardhan-bhola&label=Profile%20views&color=0e75b6&style=flat" alt="jaivardhan-bhola" /> </p>
