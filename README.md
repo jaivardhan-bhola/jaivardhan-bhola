@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning about **Desktop apps using Python**
 
-- 👨‍💻 My key projects are available at [https://jaivardhan.netlify.app/](https://jaivardhan.netlify.app/)
+- 👨‍💻 My key projects are available at [my website](https://jaivardhan.netlify.app/)
 
 <br>
 <br>
@@ -41,7 +41,7 @@
 <p> <img src ="https://activity-graph.herokuapp.com/graph?username=jaivardhan-bhola&hide_border=true&bg_color=141414&color=FF9B00&line=FF9B00&point=FF9B00" /> </p>
 <br>
 <br>
-<h2 align="left">Support</h2>
+<h2 align="left">Buy me a coffee</h2>
 <p><a href="https://www.buymeacoffee.com/jaivardhan"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aivardhan" /></a></p>
-
+<hr>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jaivardhan-bhola&label=Profile%20views&color=0e75b6&style=flat" alt="jaivardhan-bhola" /> </p>
