@@ -2,8 +2,8 @@
 <img src="https://user-images.githubusercontent.com/83286825/190104805-ef081365-7927-4361-ba40-c66ee6a7404a.png" />
 </p>
 <p align = 'center'>
-<a href ="https://spotify-recently-played-readme.vercel.app/api?user=31n5rvtsqztcplhxx7jqw44g2gy4" target="https://open.spotify.com/user/	31n5rvtsqztcplhxx7jqw44g2gy4
-"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31ychxcfsxf7cvzfhww77hd5o5dy&unique=true&count=1&width=300" /></a>
+<a href ="https://spotify-recently-played-readme.vercel.app/api?user=31n5rvtsqztcplhxx7jqw44g2gy4" target="https://open.spotify.com/user/31n5rvtsqztcplhxx7jqw44g2gy4
+"><img src="https://spotify-recently-played-readme.vercel.app/api?user=	31n5rvtsqztcplhxx7jqw44g2gy4&unique=true&count=1&width=300" /></a>
 
 </p>
 <img src = "https://user-images.githubusercontent.com/83286825/190402802-358dfa0b-5658-447b-93fc-426583d0c232.png" width =50% height=50% align = "right"> 
