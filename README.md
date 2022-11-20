@@ -53,11 +53,12 @@
 | Tech Optimum Hacks 2022| July 17, 2022|General|3rd|
 | Learnathon22 |July 30, 2022|Game Dev|1st|
 | KU HackFest 2022|August 7, 2022|Open Innovation|Participant|
-| Funathon|September 17, 2022|Art/Entertainment|TBD|
+| Funathon|September 17, 2022|Art/Entertainment|Participant|
+| Hacks and Craft 2|November 20, 2022|General|Participant|
 
 <br>
 <br>
 <h2 align="left">Buy me a coffee</h2>
-<p><a href="https://www.buymeacoffee.com/jaivardhan"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aivardhan" /></a></p>
+<p><a href="https://www.buymeacoffee.com/jaivardhan"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jaivardhan" /></a></p>
 <hr>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jaivardhan-bhola&label=Profile%20views&color=0e75b6&style=flat" alt="jaivardhan-bhola" /> </p>
