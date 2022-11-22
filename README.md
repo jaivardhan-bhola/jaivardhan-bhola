@@ -6,7 +6,7 @@
 "><img src="https://spotify-recently-played-readme.vercel.app/api?user=31n5rvtsqztcplhxx7jqw44g2gy4&unique=true&count=1&width=300" /></a>
 
 </p>
-<img src = "https://user-images.githubusercontent.com/83286825/190402802-358dfa0b-5658-447b-93fc-426583d0c232.png" width =50% height=50% align = "right"> 
+<a href="https://app.daily.dev/jaivardhan_b"><img src="https://github.com/jaivardhan-bhola/jaivardhan-bhola/blob/master/devcard.svg" width="400" alt="Jaivardhan Bhola's Dev Card" align="right"/></a> 
 
 
 
