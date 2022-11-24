@@ -45,6 +45,8 @@
 <br>
 <p> <img src ="https://holopin.me/jaivardhanbhola" /> </p>
 <br>
+<p align="center"><img src="https://www.codewars.com/users/jaivardhan-bhola/badges/large" /> </p>
+<br>
 <br>
 <h2>Hackthons I have Been to</h2>
 
