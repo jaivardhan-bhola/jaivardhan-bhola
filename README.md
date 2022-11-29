@@ -38,6 +38,7 @@
 <br>
 <h2>Blog Posts </h2>
 <!-- BLOG-POST-LIST:START -->
+- [How could a decentralized web revolutionize the digital world?](https://medium.com/@jaivardhan.bhola/how-could-a-decentralized-web-revolutionize-the-digital-world-efbc0e5f948a?source=rss-ae56e9aa6c16------2)
 <!-- BLOG-POST-LIST:END -->
 <h2>Stats</h2>
 <p> <img src ="https://holopin.me/jaivardhanbhola" /> </p>
