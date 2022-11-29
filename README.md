@@ -35,17 +35,21 @@
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 <br>
 <br>
-<h2>Stats</h2
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jaivardhan-bhola&show_icons=true&locale=en&bg_color=141414&title_color=FF9B00&icon_color=FF9B00&text_color=FF9B00&hide_border=true" alt="jaivardhan-bhola" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaivardhan-bhola&background=141414&sideNums=FF9B00&currStreakNum=FF9B00&currStreakLabel=FF9B00&sideLabels=FF9B00&dates=FF9B00&hide_border=true" alt="jaivardhan-bhola" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaivardhan-bhola&show_icons=true&locale=en&layout=compact&bg_color=141414&title_color=FF9B00&icon_color=FF9B00&text_color=FF9B00&hide_border=true" alt="jaivardhan-bhola" /></p>
-<p> <img src ="https://activity-graph.herokuapp.com/graph?username=jaivardhan-bhola&hide_border=true&bg_color=141414&color=FF9B00&line=FF9B00&point=FF9B00" /> </p>
 <br>
+<h2>Blog Posts </h2>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+<h2>Stats</h2>
 <p> <img src ="https://holopin.me/jaivardhanbhola" /> </p>
 <br>
 <p align="center"><img src="https://www.codewars.com/users/jaivardhan-bhola/badges/large" /> </p>
+<br>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=jaivardhan-bhola&show_icons=true&locale=en&bg_color=141414&title_color=FF9B00&icon_color=FF9B00&text_color=FF9B00&hide_border=true" alt="jaivardhan-bhola" /></p>
+
+<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=jaivardhan-bhola&background=141414&sideNums=FF9B00&currStreakNum=FF9B00&currStreakLabel=FF9B00&sideLabels=FF9B00&dates=FF9B00&hide_border=true" alt="jaivardhan-bhola" /></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaivardhan-bhola&show_icons=true&locale=en&layout=compact&bg_color=141414&title_color=FF9B00&icon_color=FF9B00&text_color=FF9B00&hide_border=true" alt="jaivardhan-bhola" /></p>
+<p> <img src ="https://activity-graph.herokuapp.com/graph?username=jaivardhan-bhola&hide_border=true&bg_color=141414&color=FF9B00&line=FF9B00&point=FF9B00" /> </p>
 <br>
 <br>
 <h2>Hackthons I have Been to</h2>
