@@ -40,6 +40,7 @@
 <h2>Blog</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Uncharted waters for generative AI](https://medium.com/@jaivardhan.bhola/uncharted-waters-for-generative-ai-aeb0770a8826?source=rss-ae56e9aa6c16------2)
 - [How could a decentralized web revolutionize the digital world?](https://medium.com/@jaivardhan.bhola/how-could-a-decentralized-web-revolutionize-the-digital-world-efbc0e5f948a?source=rss-ae56e9aa6c16------2)
 <!-- BLOG-POST-LIST:END -->
 <h2>Stats</h2>
