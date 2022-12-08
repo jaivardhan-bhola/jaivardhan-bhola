@@ -53,7 +53,6 @@
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=jaivardhan-bhola&background=141414&sideNums=FF9B00&currStreakNum=FF9B00&currStreakLabel=FF9B00&sideLabels=FF9B00&dates=FF9B00&hide_border=true" alt="jaivardhan-bhola" /></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaivardhan-bhola&show_icons=true&locale=en&layout=compact&bg_color=141414&title_color=FF9B00&icon_color=FF9B00&text_color=FF9B00&hide_border=true" alt="jaivardhan-bhola" /></p>
-<p> <img src ="https://activity-graph.herokuapp.com/graph?username=jaivardhan-bhola&hide_border=true&bg_color=141414&color=FF9B00&line=FF9B00&point=FF9B00" /> </p>
 <br>
 <br>
 <h2>Hackthons I have Been to</h2>
