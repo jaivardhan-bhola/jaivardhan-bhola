@@ -54,18 +54,7 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaivardhan-bhola&show_icons=true&locale=en&layout=compact&bg_color=141414&title_color=FF9B00&icon_color=FF9B00&text_color=FF9B00&hide_border=true" alt="jaivardhan-bhola" /></p>
 <br>
 <br>
-<h2>Hackthons I have Been to</h2>
 
-| Name|Date|Track|Position|
-| ------------- | ------------- | -------- | --------- |
-| Tech Optimum Hacks 2022| July 17, 2022|General|3rd|
-| Learnathon22 |July 30, 2022|Game Dev|1st|
-| KU HackFest 2022|August 7, 2022|Open Innovation|Participant|
-| Funathon|September 17, 2022|Art/Entertainment|Participant|
-| Hacks and Craft 2|November 20, 2022|General|Participant|
-
-<br>
-<br>
 <h2 align="left">Buy me a coffee</h2>
 <p><a href="https://www.buymeacoffee.com/jaivardhan"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jaivardhan" /></a></p>
 <hr>
