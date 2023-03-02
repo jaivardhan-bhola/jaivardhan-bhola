@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/83286825/190104805-ef081365-7927-4361-ba40-c66ee6a7404a.png" />
 </p>
 <p align = 'center'>
-<img src="https://apple-music-github-profile.rayriffy.com/theme/dark.svg?uid=001225.f21b5e3a3e95465fb3bf9edf5b671b50.0450"/>
+<img src="https://apple-music-github-profile.rayriffy.com/theme/dark.svg?uid=001225.f21b5e3a3e95465fb3bf9edf5b671b50.0450" width=50% height=50%/>
 </p>
 <a href="https://app.daily.dev/jaivardhan_b"><img src="https://github.com/jaivardhan-bhola/jaivardhan-bhola/blob/main/devcard.svg" width="400" alt="Jaivardhan Bhola's Dev Card" align="right"/></a> 
 
