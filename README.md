@@ -15,9 +15,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jaivardhan-bhola&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
-## 🐦 Latest Tweet
 
----
 [![](https://visitcount.itsvg.in/api?id=jaivardhan-bhola&icon=0&color=3)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
