@@ -1,59 +1,24 @@
-<p align = 'center'>
-<img src="https://user-images.githubusercontent.com/83286825/190104805-ef081365-7927-4361-ba40-c66ee6a7404a.png" />
-
 <a href="https://app.daily.dev/jaivardhan_b"><img src="https://github.com/jaivardhan-bhola/jaivardhan-bhola/blob/main/devcard.svg" width="400" alt="Jaivardhan Bhola's Dev Card" align="right"/></a> 
+# 💫 About Me:
+🔭 I’m currently working on Python GUI Apps<br>👯 I’m looking to collaborate on Projects for Hackathons<br>🌱 I’m currently learning Java<br>
 
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/1047930956809502802) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jaivardhan.bhola) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jaivardhan_b) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jaivardhan-bhola) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@jaivardhan.bhola) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/BholaJaivardhan) 
 
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jaivardhan-bhola&theme=merko&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jaivardhan-bhola&theme=merko&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jaivardhan-bhola&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=jaivardhan-bhola&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
-- 🔭 I’m currently working on **Desktop apps using Python**
+## 🐦 Latest Tweet
 
-- 🌱 I’m currently learning about **Desktop apps using Python**
+---
+[![](https://visitcount.itsvg.in/api?id=jaivardhan-bhola&icon=0&color=3)](https://visitcount.itsvg.in)
 
-- 👨‍💻 My key projects are available at [my website](https://jaivardhan.netlify.app/)
-
-<br>
-<br>
-<h2 align="left">Connect with me</h2>
-
-<p align="center">
-<a href="https://twitter.com/bholajaivardhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bholajaivardhan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jaivardhan-bhola-773944214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaivardhan-bhola-773944214" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17393492" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17393492" height="30" width="40" /></a>
-<a href="https://fb.com/jaivardhan.bhola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jaivardhan.bhola" height="30" width="40" /></a>
-<a href="https://instagram.com/jaivardhan_b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaivardhan-b" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jaivardhan-bhola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jaivardhan-bhola" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/jaivardhanbhola/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jaivardhanbhola/profile" height="30" width="40" /></a>
-</p>
-<br>
-<br>
-<h2 align="left">Languages and Tools</h2>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
-<br>
-<br>
-<br>
-</p>
-<h2>Blog</h2>
-
-<!-- BLOG-POST-LIST:START -->
-- [The Top Skills Every Developer Should Master: A 2-Minute Guide](https://medium.com/@jaivardhan.bhola/the-top-skills-every-developer-should-master-a-3-minute-guide-7600109237d5?source=rss-ae56e9aa6c16------2)
-- [Uncharted waters for generative AI](https://medium.com/@jaivardhan.bhola/uncharted-waters-for-generative-ai-aeb0770a8826?source=rss-ae56e9aa6c16------2)
-- [How could a decentralized web revolutionize the digital world?](https://medium.com/@jaivardhan.bhola/how-could-a-decentralized-web-revolutionize-the-digital-world-efbc0e5f948a?source=rss-ae56e9aa6c16------2)
-<!-- BLOG-POST-LIST:END -->
-<h2>Stats</h2>
-<p> <img src ="https://holopin.me/jaivardhanbhola" /> </p>
-<br>
-<p align="center"><img src="https://www.codewars.com/users/jaivardhan-bhola/badges/large" /> </p>
-<br>
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=jaivardhan-bhola&show_icons=true&locale=en&bg_color=141414&title_color=FF9B00&icon_color=FF9B00&text_color=FF9B00&hide_border=true" alt="jaivardhan-bhola" /></p>
-
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=jaivardhan-bhola&background=141414&sideNums=FF9B00&currStreakNum=FF9B00&currStreakLabel=FF9B00&sideLabels=FF9B00&dates=FF9B00&hide_border=true" alt="jaivardhan-bhola" /></p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaivardhan-bhola&show_icons=true&locale=en&layout=compact&bg_color=141414&title_color=FF9B00&icon_color=FF9B00&text_color=FF9B00&hide_border=true" alt="jaivardhan-bhola" /></p>
-<br>
-<br>
-
-<h2 align="left">Buy me a coffee</h2>
-<p><a href="https://www.buymeacoffee.com/jaivardhan"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jaivardhan" /></a></p>
-<hr>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jaivardhan-bhola&label=Profile%20views&color=0e75b6&style=flat" alt="jaivardhan-bhola" /> </p>
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jaivardhan) 
