@@ -3,6 +3,7 @@
 🔭 I’m currently working on Python GUI Apps<br>👯 I’m looking to collaborate on Projects for Hackathons<br>🌱 I’m currently learning C++<br>
 ## 📝 Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Democratization of Software Development: The Rise of Low-Code/No-Code Platforms](https://medium.com/@jaivardhan.bhola/democratization-of-software-development-the-rise-of-low-code-no-code-platforms-e978f53f1d3?source=rss-ae56e9aa6c16------2)
 - [A Comprehensive Guide to Different GPT Models: How to Choose the Right One for Your Needs](https://medium.com/@jaivardhan.bhola/a-comprehensive-guide-to-different-gpt-models-how-to-choose-the-right-one-for-your-needs-547e1559e542?source=rss-ae56e9aa6c16------2)
 - [The Top Skills Every Developer Should Master: A 2-Minute Guide](https://medium.com/@jaivardhan.bhola/the-top-skills-every-developer-should-master-a-3-minute-guide-7600109237d5?source=rss-ae56e9aa6c16------2)
 - [Uncharted waters for generative AI](https://medium.com/@jaivardhan.bhola/uncharted-waters-for-generative-ai-aeb0770a8826?source=rss-ae56e9aa6c16------2)
