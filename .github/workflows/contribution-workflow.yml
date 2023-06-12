@@ -30,4 +30,5 @@ jobs:
             const readmePath = `${process.env.GITHUB_WORKSPACE}/README.md`;
             let readmeContent = fs.readFileSync(readmePath, 'utf8');
             readmeContent = readmeContent.replace(/<!-- CONTRIBUTION-LIST:START -->(.|\n)*<!-- CONTRIBUTION-LIST:END -->/, contributionList);
+            console.log(contributionList);
             fs.writeFileSync(readmePath, readmeContent);
