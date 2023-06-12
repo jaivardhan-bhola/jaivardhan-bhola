@@ -20,11 +20,13 @@ jobs:
           client-payload: '{"username": "jaivardhan-bhola"}'
 
       - name: Update README
-        uses: peaceiris/actions-readme@v2
+        uses: actions/github-script@v4
         with:
-          readme_path: README.md
-          replace_pattern: '<!-- CONTRIBUTION-LIST:START -->(.|\n)*<!-- CONTRIBUTION-LIST:END -->'
-          content: |
-            <!-- CONTRIBUTION-LIST:START -->
-            ${{ steps.fetch_contributions.outputs.repositories }}
-            <!-- CONTRIBUTION-LIST:END -->
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const fs = require('fs');
+            const contributionList = `<!-- CONTRIBUTION-LIST:START -->\n${{ steps.fetch_contributions.outputs.repositories }}<!-- CONTRIBUTION-LIST:END -->\n`;
+            const readmePath = `${process.env.GITHUB_WORKSPACE}/README.md`;
+            let readmeContent = fs.readFileSync(readmePath, 'utf8');
+            readmeContent = readmeContent.replace(/<!-- CONTRIBUTION-LIST:START -->(.|\n)*<!-- CONTRIBUTION-LIST:END -->/, contributionList);
+            fs.writeFileSync(readmePath, readmeContent);
