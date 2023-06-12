@@ -33,8 +33,11 @@ const contributionList = links.map((link) => `- [${path.basename(link)}](${link}
 return contributionList;
 };
 
+const main = async () => {
 const contributionList = await generateContributionList();
 const readmePath = `${process.env.GITHUB_WORKSPACE}/README.md`;
 let readmeContent = fs.readFileSync(readmePath, 'utf8');
 readmeContent = readmeContent.replace(/<!-- CONTRIBUTION-LIST:START -->(.|\n)*<!-- CONTRIBUTION-LIST:END -->/, `<!-- CONTRIBUTION-LIST:START -->\n${contributionList}\n<!-- CONTRIBUTION-LIST:END -->`);
 fs.writeFileSync(readmePath, readmeContent);
+};
+main();
