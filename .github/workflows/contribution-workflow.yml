@@ -22,14 +22,16 @@ jobs:
           links=$(curl -s "$url" | pup 'a[data-hovercard-type="repository"] attr{href}' | sort -u)
           echo "::set-output name=links::$links"
 
+      - name: Generate contribution list
+        run: node generate-contribution-list.js
+        env:
+          LINKS: ${{ steps.scrape_links.outputs.links }}
+
       - name: Update README
         run: |
-          echo "${{ steps.scrape_links.outputs.links }}" | tr "\n" "\\n" > links.txt
           const fs = require('fs');
-          const links = fs.readFileSync('links.txt', 'utf8').trim();
-          const contributionList = '<!-- CONTRIBUTION-LIST:START -->\n' + links + '\n<!-- CONTRIBUTION-LIST:END -->\n';
           const readmePath = `${process.env.GITHUB_WORKSPACE}/README.md`;
           let readmeContent = fs.readFileSync(readmePath, 'utf8');
-          readmeContent = readmeContent.replace(/<!-- CONTRIBUTION-LIST:START -->(.|\n)*<!-- CONTRIBUTION-LIST:END -->/, contributionList);
-          console.log(contributionList);
+          readmeContent = readmeContent.replace(/<!-- CONTRIBUTION-LIST:START -->(.|\n)*<!-- CONTRIBUTION-LIST:END -->/, process.env.CONTRIBUTION_LIST);
+          console.log(process.env.CONTRIBUTION_LIST);
           fs.writeFileSync(readmePath, readmeContent);
