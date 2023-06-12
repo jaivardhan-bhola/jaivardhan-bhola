@@ -1,4 +1,4 @@
-name: Update Contribution List
+name: Update README
 
 on:
   push:
@@ -21,14 +21,12 @@ jobs:
           client-payload: '{"username": "jaivardhan-bhola"}'
 
       - name: Update README
-        uses: actions/github-script@v4
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          script: |
-            const fs = require('fs');
-            const contributionList = `<!-- CONTRIBUTION-LIST:START -->\n${{ steps.fetch_contributions.outputs.repositories }}<!-- CONTRIBUTION-LIST:END -->\n`;
-            const readmePath = `${process.env.GITHUB_WORKSPACE}/README.md`;
-            let readmeContent = fs.readFileSync(readmePath, 'utf8');
-            readmeContent = readmeContent.replace(/<!-- CONTRIBUTION-LIST:START -->(.|\n)*<!-- CONTRIBUTION-LIST:END -->/, contributionList);
-            console.log(contributionList);
-            fs.writeFileSync(readmePath, readmeContent);
+        run: |
+          echo "<!-- CONTRIBUTION-LIST:START -->" > README.md
+          echo "${{ steps.fetch_contributions.outputs.repositories }}" >> README.md
+          echo "<!-- CONTRIBUTION-LIST:END -->" >> README.md
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "GitHub Actions"
+          git add README.md
+          git commit -m "Update README.md"
+          git push
