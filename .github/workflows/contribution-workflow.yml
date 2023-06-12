@@ -16,6 +16,7 @@ jobs:
         id: fetch_contributions
         uses: peter-evans/repository-dispatch@v1
         with:
+          token: ${{ secrets.ACCESS_TOKEN }}
           event-type: 'fetch-contributions'
           client-payload: '{"username": "jaivardhan-bhola"}'
 
