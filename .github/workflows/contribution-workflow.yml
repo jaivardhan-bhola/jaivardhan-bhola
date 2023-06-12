@@ -17,10 +17,9 @@ jobs:
 
       - name: Scrape repository links
         id: scrape_links
-        uses: jstrieb/linkinator-action@v1
+        uses: tj-actions/extract-links-action@v1
         with:
-          check_content: true
-          path: README.md
+          file: README.md
 
       - name: Generate contribution list
         run: node generate-contribution-list.js
