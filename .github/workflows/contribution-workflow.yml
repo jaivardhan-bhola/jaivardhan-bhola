@@ -21,7 +21,7 @@ jobs:
           node-version: '14.x'
 
       - name: Install dependencies
-        run: npm install
+        run: npm install fs path moment moment-timezone node-fetch cheerio axios
 
       - name: Generate contribution list
         run: node generate.js
