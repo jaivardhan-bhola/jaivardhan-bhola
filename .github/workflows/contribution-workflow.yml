@@ -28,10 +28,11 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
             const fs = require('fs');
-            const links = ${{ steps.scrape_links.outputs.links }};
+            const links = `${{ steps.scrape_links.outputs.links }}`;
             const contributionList = `<!-- CONTRIBUTION-LIST:START -->\n${links}\n<!-- CONTRIBUTION-LIST:END -->\n`;
             const readmePath = `${process.env.GITHUB_WORKSPACE}/README.md`;
             let readmeContent = fs.readFileSync(readmePath, 'utf8');
             readmeContent = readmeContent.replace(/<!-- CONTRIBUTION-LIST:START -->(.|\n)*<!-- CONTRIBUTION-LIST:END -->/, contributionList);
-            console.log(contributionList);
+            console.log(contributionList));
             fs.writeFileSync(readmePath, readmeContent);
+
