@@ -27,7 +27,7 @@ jobs:
           echo "${{ steps.scrape_links.outputs.links }}" | tr "\n" "\\n" > links.txt
           const fs = require('fs');
           const links = fs.readFileSync('links.txt', 'utf8').trim();
-          const contributionList = `<!-- CONTRIBUTION-LIST:START -->\n${links}\n<!-- CONTRIBUTION-LIST:END -->\n`;
+          const contributionList = '<!-- CONTRIBUTION-LIST:START -->\n' + links + '\n<!-- CONTRIBUTION-LIST:END -->\n';
           const readmePath = `${process.env.GITHUB_WORKSPACE}/README.md`;
           let readmeContent = fs.readFileSync(readmePath, 'utf8');
           readmeContent = readmeContent.replace(/<!-- CONTRIBUTION-LIST:START -->(.|\n)*<!-- CONTRIBUTION-LIST:END -->/, contributionList);
