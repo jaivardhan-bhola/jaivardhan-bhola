@@ -21,6 +21,11 @@ jobs:
         with:
           file: README.md
 
+      - name: Check links
+        uses: dkhamsing/check-links-action@v2
+        with:
+          path: README.md
+
       - name: Generate contribution list
         run: node generate-contribution-list.js
         env:
