@@ -1,26 +1,26 @@
-name: Scrape and Update Contribution List
+name: Update Contribution List
 
 on:
+  schedule:
+    - cron: '0 0 * * *' 
+  workflow_dispatch:
   push:
     branches:
       - main
 
 jobs:
-  update-readme:
+  update-contribution-list:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
 
-      - name: Install dependencies
-        run: npm install cheerio
-
-      - name: Scrape href links
+      - name: Scrape repository links
         id: scrape_links
-        run: |
-          url="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Ajaivardhan-bhola"
-          links=$(curl -s "$url" | pup 'a[data-hovercard-type="repository"] attr{href}' | sort -u)
-          echo "::set-output name=links::$links"
+        uses: jstrieb/linkinator-action@v1
+        with:
+          check_content: true
+          path: README.md
 
       - name: Generate contribution list
         run: node generate-contribution-list.js
@@ -35,3 +35,11 @@ jobs:
           readmeContent = readmeContent.replace(/<!-- CONTRIBUTION-LIST:START -->(.|\n)*<!-- CONTRIBUTION-LIST:END -->/, process.env.CONTRIBUTION_LIST);
           console.log(process.env.CONTRIBUTION_LIST);
           fs.writeFileSync(readmePath, readmeContent);
+
+      - name: Commit changes
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "GitHub Actions"
+          git add README.md
+          git commit -m "Update contribution list"
+          git push
