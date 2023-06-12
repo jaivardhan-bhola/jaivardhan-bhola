@@ -1,4 +1,4 @@
-name: Update Contribution List
+name: Scrape and Update Contribution List
 
 on:
   push:
@@ -12,13 +12,15 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
-      - name: Fetch contribution list
-        id: fetch_contributions
+      - name: Install dependencies
+        run: npm install cheerio
+
+      - name: Scrape href links
+        id: scrape_links
         run: |
-          username="jaivardhan-bhola"
-          token="${{ secrets.GITHUB_TOKEN }}"
-          repositories=$(curl -s -H "Authorization: Bearer $token" "https://api.github.com/users/$username/repos?type=owner,member" | jq -r '.[].full_name' | sort -u)
-          echo "::set-output name=repositories::$repositories"
+          url="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Ajaivardhan-bhola"
+          links=$(curl -s "$url" | pup 'a[data-hovercard-type="repository"] attr{href}' | sort -u)
+          echo "::set-output name=links::$links"
 
       - name: Update README
         uses: actions/github-script@v4
@@ -26,8 +28,10 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
             const fs = require('fs');
-            const contributionList = `<!-- CONTRIBUTION-LIST:START -->\n${{ steps.fetch_contributions.outputs.repositories }}\n<!-- CONTRIBUTION-LIST:END -->\n`;
+            const links = ${{ steps.scrape_links.outputs.links }};
+            const contributionList = `<!-- CONTRIBUTION-LIST:START -->\n${links}\n<!-- CONTRIBUTION-LIST:END -->\n`;
             const readmePath = `${process.env.GITHUB_WORKSPACE}/README.md`;
             let readmeContent = fs.readFileSync(readmePath, 'utf8');
             readmeContent = readmeContent.replace(/<!-- CONTRIBUTION-LIST:START -->(.|\n)*<!-- CONTRIBUTION-LIST:END -->/, contributionList);
+            console.log(contributionList);
             fs.writeFileSync(readmePath, readmeContent);
