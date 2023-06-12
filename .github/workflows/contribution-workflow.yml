@@ -24,9 +24,9 @@ jobs:
 
       - name: Update README
         run: |
-          echo "${{ steps.scrape_links.outputs.links }}" > links.txt
+          echo "${{ steps.scrape_links.outputs.links }}" | tr "\n" "\\n" > links.txt
           const fs = require('fs');
-          const links = fs.readFileSync('links.txt', 'utf8').trim().split('\n').join('\\n');
+          const links = fs.readFileSync('links.txt', 'utf8').trim();
           const contributionList = `<!-- CONTRIBUTION-LIST:START -->\n${links}\n<!-- CONTRIBUTION-LIST:END -->\n`;
           const readmePath = `${process.env.GITHUB_WORKSPACE}/README.md`;
           let readmeContent = fs.readFileSync(readmePath, 'utf8');
