@@ -1,0 +1,30 @@
+name: Update Contribution List
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Fetch contribution list
+        id: fetch_contributions
+        uses: peter-evans/repository-dispatch@v1
+        with:
+          event-type: 'fetch-contributions'
+          client-payload: '{"username": "jaivardhan-bhola"}'
+
+      - name: Update README
+        uses: peaceiris/actions-readme@v2
+        with:
+          readme_path: README.md
+          replace_pattern: '<!-- CONTRIBUTION-LIST:START -->(.|\n)*<!-- CONTRIBUTION-LIST:END -->'
+          content: |
+            <!-- CONTRIBUTION-LIST:START -->
+            ${{ steps.fetch_contributions.outputs.repositories }}
+            <!-- CONTRIBUTION-LIST:END -->

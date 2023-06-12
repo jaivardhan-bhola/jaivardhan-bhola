@@ -10,6 +10,12 @@
 - [How could a decentralized web revolutionize the digital world?](https://medium.com/@jaivardhan.bhola/how-could-a-decentralized-web-revolutionize-the-digital-world-efbc0e5f948a?source=rss-ae56e9aa6c16------2)
 <!-- BLOG-POST-LIST:END -->
 
+## 🤝 Contributions:
+<!-- CONTRIBUTION-LIST:START -->
+
+<!-- CONTRIBUTION-LIST:END -->
+
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge)](https://discordapp.com/users/1047930956809502802) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://facebook.com/jaivardhan.bhola) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/jaivardhan_b) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/jaivardhan-bhola) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=for-the-badge)](https://medium.com/@jaivardhan.bhola) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/BholaJaivardhan) 
 
@@ -28,3 +34,4 @@
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jaivardhan) 
+`
