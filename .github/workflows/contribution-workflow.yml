@@ -1,4 +1,4 @@
-name: Update README
+name: Update Contribution List
 
 on:
   push:
@@ -14,19 +14,20 @@ jobs:
 
       - name: Fetch contribution list
         id: fetch_contributions
-        uses: peter-evans/repository-dispatch@v1
-        with:
-          token: ${{ secrets.ACCESS_TOKEN }}
-          event-type: 'fetch-contributions'
-          client-payload: '{"username": "jaivardhan-bhola"}'
+        run: |
+          username="jaivardhan-bhola"
+          token="${{ secrets.GITHUB_TOKEN }}"
+          repositories=$(curl -s -H "Authorization: Bearer $token" "https://api.github.com/users/$username/repos?type=owner,member" | jq -r '.[].full_name' | sort -u)
+          echo "::set-output name=repositories::$repositories"
 
       - name: Update README
-        run: |
-          echo "<!-- CONTRIBUTION-LIST:START -->" > README.md
-          echo "${{ steps.fetch_contributions.outputs.repositories }}" >> README.md
-          echo "<!-- CONTRIBUTION-LIST:END -->" >> README.md
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git config --global user.name "GitHub Actions"
-          git add README.md
-          git commit -m "Update README.md"
-          git push
+        uses: actions/github-script@v4
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const fs = require('fs');
+            const contributionList = `<!-- CONTRIBUTION-LIST:START -->\n${{ steps.fetch_contributions.outputs.repositories }}\n<!-- CONTRIBUTION-LIST:END -->\n`;
+            const readmePath = `${process.env.GITHUB_WORKSPACE}/README.md`;
+            let readmeContent = fs.readFileSync(readmePath, 'utf8');
+            readmeContent = readmeContent.replace(/<!-- CONTRIBUTION-LIST:START -->(.|\n)*<!-- CONTRIBUTION-LIST:END -->/, contributionList);
+            fs.writeFileSync(readmePath, readmeContent);
