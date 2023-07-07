@@ -1,3 +1,8 @@
+<h1 align="center">Hi 👋, I'm Jaivardhan Bhola</h1>
+<h3 align="center">Code-Savvy Student with a Desire to Learn and Grow</h3>
+<br>
+<br>
+
 # 💫 About Me:
 🌱 I’m currently learning DSA with C++<br>💬 Ask me about Python, CSS, HTML, JS
 
