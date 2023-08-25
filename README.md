@@ -3,7 +3,6 @@
 <p align="center">
 <img src="https://www.codewars.com/users/jaivardhan-bhola/badges/micro" width=200px height=auto/>
 <br>
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=31kuxjny2gf6w3vxqoibf6qwzld4&count=1" width=40% height=auto/>
 </p>
 <br>
 <br>
