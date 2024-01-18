@@ -3,6 +3,8 @@
 <p align="center">
 <img src="https://www.codewars.com/users/jaivardhan-bhola/badges/micro" width=200px height=auto/>
 <br>
+<img src="https://cp-logo.vercel.app/codechef/jaivardhan_b?logo=true" width=25% height=auto/>
+<br>
 </p>
 <br>
 <br>
