@@ -12,13 +12,27 @@
 # 💫 About Me:
 🌱 I’m currently learning DSA with C++<br>💬 Ask me about Python, CSS, HTML, JS, Flutter
 
-
-
 <br>
 
 <br>
 
-<h2>Hackthons I have Been to</h2>
+# Hackthons I have Been to
+
+
+
+Name Date Track | Position |
+
+
+
+Tech Optimum Hacks 2022 | July 17, 2022 General | 3rd |
+
+Learnathon22 July 30, 2022 Game Dev|1st|
+
+KU HackFest 2022 August 7, 2022 | Open Innovation Participant
+
+Funathon | September 17, 2022 Art/Entertainment TBD
+
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jaivardhan_b) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jaivardhan-bhola) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@jaivardhan.bhola) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/BholaJaivardhan) 
