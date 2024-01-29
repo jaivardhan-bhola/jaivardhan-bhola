@@ -19,19 +19,14 @@
 # Hackthons I have Been to
 
 
-
-| Name Date Track | Position |
-
-
-
-Tech Optimum Hacks 2022 | July 17, 2022 General | 3rd |
-
-Learnathon22 July 30, 2022 Game Dev|1st|
-
-KU HackFest 2022 August 7, 2022 | Open Innovation Participant
-
-Funathon | September 17, 2022 Art/Entertainment TBD
-
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Track</th>
+    <th>Date</th>
+    <th>Position</th>
+  </tr>
+</table>
 
 
 ## 🌐 Socials:
