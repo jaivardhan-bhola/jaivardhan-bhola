@@ -10,7 +10,7 @@
 <br>
 
 # 💫 About Me:
-🌱 I’m currently learning DSA with C++<br>💬 Ask me about Python, CSS, HTML, JS
+🌱 I’m currently learning DSA with C++<br>💬 Ask me about Python, CSS, HTML, JS, Flutter
 
 
 
