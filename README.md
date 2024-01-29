@@ -38,6 +38,12 @@
      <td>July 30, 2022</td>
      <td>1st</td>
   </tr>
+  <tr>
+     <td>United Hacks V2</td>
+     <td>General</td>
+     <td>Jan 12, 2024</td>
+     <td>1st</td>
+  </tr>
 </table>
 
 
