@@ -27,10 +27,10 @@
     <th>Position</th>
   </tr>
   <tr>
-     <td>Tech Optimum Hacks 2022<\td>
-     <td>General<\td>
-     <td>July 17, 2022<\td>
-     <td>3rd<\td>
+     <td>Tech Optimum Hacks 2022</td>
+     <td>General</td>
+     <td>July 17, 2022</td>
+     <td>3rd</td>
   </tr>
 </table>
 
