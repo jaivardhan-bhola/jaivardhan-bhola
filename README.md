@@ -32,6 +32,12 @@
      <td>July 17, 2022</td>
      <td>3rd</td>
   </tr>
+  <tr>
+     <td>Learnathon22</td>
+     <td>Game Dev</td>
+     <td>July 30, 2022</td>
+     <td>1st</td>
+  </tr>
 </table>
 
 
