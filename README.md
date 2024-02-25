@@ -44,6 +44,12 @@
      <td>Jan 12, 2024</td>
      <td>1st</td>
   </tr>
+<tr>
+     <td>Hack-O-Mania</td>
+     <td>Web/App Dev</td>
+     <td>Feb 10, 2024</td>
+     <td>1st</td>
+  </tr>
 </table>
 
 
