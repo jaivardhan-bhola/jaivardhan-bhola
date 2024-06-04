@@ -14,45 +14,6 @@
 
 <br>
 
-<br>
-
-# Hackthons I have Been to
-
-
-<table>
-  <tr>
-    <th>Name</th>
-    <th>Track</th>
-    <th>Date</th>
-    <th>Position</th>
-  </tr>
-  <tr>
-     <td>Tech Optimum Hacks 2022</td>
-     <td>General</td>
-     <td>July 17, 2022</td>
-     <td>3rd</td>
-  </tr>
-  <tr>
-     <td>Learnathon22</td>
-     <td>Game Dev</td>
-     <td>July 30, 2022</td>
-     <td>1st</td>
-  </tr>
-  <tr>
-     <td>United Hacks V2</td>
-     <td>General</td>
-     <td>Jan 12, 2024</td>
-     <td>1st</td>
-  </tr>
-<tr>
-     <td>Hack-O-Mania</td>
-     <td>Web/App Dev</td>
-     <td>Feb 10, 2024</td>
-     <td>1st</td>
-  </tr>
-</table>
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jaivardhan_b) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jaivardhan-bhola) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@jaivardhan.bhola) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/BholaJaivardhan) 
 
